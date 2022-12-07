@@ -44,11 +44,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya biarin aja biar ada creditsnya :v
 global.sig1 = 'https://wa.me/6289505054287?text=_Assalamualaikum+🙏🏻_'
-global.sig = 'https//youtube.com/@HaikalDev'
-global.sgh = 'https//youtube.com/@HaikalDev'
-global.sgc = 'https//youtube.com/@HaikalDev'
-global.sdc = 'https//youtube.com/@HaikalDev'
-global.snh = 'https//youtube.com/@HaikalDev'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = '-'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '089505054287' //Nomor dana atay gooay kalian
